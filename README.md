@@ -12,7 +12,7 @@ Regional Sales Distribution
 Enabled dynamic filtering for better data exploration
 
 🖥️ Dashboard Preview
-<p align="center"> <img src="Dashboard image.png" width="700"> </p>
+<p align="center"> <img src="Screenshot (82).png" width="700"> </p>
 
 
 🛠️ Tools & Technologies
